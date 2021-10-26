@@ -73,7 +73,7 @@ The following flowchart summarizes the project workflow:
 
 ![flow](screenshots/Global_graph_2_2.png)
 
-### Basic commands 
+### Basic commands -
 
 #### Installation of the package
 - Download or clone the repository on your workstation.
